@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Stellamaris12/Stellamaris12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I am Nneamaka Celestina Nnawo.
+I am a data analyst/sci
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on virtual assistant
+- 🌱 I’m currently learning data analytics
+- 👯 I’m looking to collaborate on projects that will help me improve and sharpen my skills
+- 🤔 I’m looking for help with python and data science
+- 💬 Ask me about anything related to data
+- 📫 How to reach me: [LinkedIN]()
+- 😄 Pronouns: SHE
+- ⚡ Fun fact: I love authenticity
 -->

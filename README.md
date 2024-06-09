@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects that will help me improve and sharpen my skills
 - 🤔 I’m looking for help with python and data science
 - 💬 Ask me about anything related to data
-- 📫 How to reach me: [LinkedIN]()
+- 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/nneamaka-nnawo-74597b299)
 - 😄 Pronouns: SHE
 - ⚡ Fun fact: I love authenticity
 -->

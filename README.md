@@ -1,8 +1,9 @@
 # Hi there 👋
 
 I am Nneamaka Celestina Nnawo.
-I am a data analyst/sci
-Here are some ideas to get you started:
+I am a data analyst
+
+About me:
 
 - 🔭 I’m currently working on virtual assistant
 - 🌱 I’m currently learning data analytics
